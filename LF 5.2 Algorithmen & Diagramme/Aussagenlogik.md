@@ -14,7 +14,7 @@
 |1	|1	|1		|1		|0		|
 
 ### `NOT` invertiert die EIngabe:
-: `A = 0` 	->		`NOT(A) = 1`
-: `A = 1`	->		`NOT(A) = 0`
+- `A = 0` 	->		`NOT(A) = 1`
+- `A = 1`	->		`NOT(A) = 0`
 
 
