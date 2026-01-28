@@ -13,7 +13,7 @@
 |1	|0	|0		|1		|1		|
 |1	|1	|1		|1		|0		|
 
-term `NOT` invertiert die EIngabe:
+### `NOT` invertiert die EIngabe:
 : `A = 0` 	->		`NOT(A) = 1`
 : `A = 1`	->		`NOT(A) = 0`
 
