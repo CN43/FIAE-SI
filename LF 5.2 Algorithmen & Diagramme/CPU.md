@@ -2,7 +2,7 @@
 
 |Befehl	|Bedeutung|
 |-------|---------|
-|'+','-','*','/'	|Addition, Subtraktion, Multiplikation, Division|
+|`+`,`-`,'*','/'	|Addition, Subtraktion, Multiplikation, Division|
 |'MOV' 	|Assembler um Zahlen in ein Register zu bewegen|
 |		|Shiftoperator: verschiebt ein einzelnes BIT|
 |&&		|AND|
