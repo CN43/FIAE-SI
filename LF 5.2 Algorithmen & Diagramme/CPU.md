@@ -11,3 +11,4 @@
 |`<=`,`>=`	|kleiner gleich / größer gleich|
 |`==`,`!=`	|ist gleich| / ist **un**gleich|
 
+
