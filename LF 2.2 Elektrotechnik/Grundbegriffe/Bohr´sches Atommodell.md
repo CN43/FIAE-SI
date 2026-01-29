@@ -1,6 +1,6 @@
-# Grundbegriffe
+# Bohr´sches Atommodell
 
-## Bohr´sches Atommodell
+
 
 - Atome bestehen aus einem Kern und einer Hülle 
 - im Kern befinden sich die Protonen und die Neutronen 
