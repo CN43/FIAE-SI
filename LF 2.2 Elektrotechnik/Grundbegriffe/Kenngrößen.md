@@ -49,7 +49,7 @@ Die elektrische Stromstäke (electric current intensity) gibt an, wie viele elek
 
 Elektrische Energie (electrical energy) ist eine Energieform, die mittels der Elektrizität geleistet werden kann und wird deshalb auch elektrische Arbeit genannt.
 
-![Umwandlungsbeispiele](/Bilder/Screenshot 2026-01-29 175643)
+![Umwandlungsbeispiele](/Bilder/Screenshot%202026-01-29%20175643.png)
 
 | Formelzeichen | $W$              |                                                     |
 | ------------- | ---------------- | --------------------------------------------------- |
