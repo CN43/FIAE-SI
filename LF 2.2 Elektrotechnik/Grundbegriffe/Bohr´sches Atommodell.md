@@ -13,4 +13,4 @@ Damit ein Element elektrisch neutral ist, besitzt es ebenso viele Elektronen in 
 
 Die Zahl an Neutronen allerdings ist nicht festgelegt. Wenn wir bei Wasserstoff bleiben, besitzt dieses in der Regel genau ein Neutron. Es kann allerdings auch Wasserstoffatome mit zwei oder mehr Neutronen geben, dann spricht man von "schwerem Wasser" oder Deuterium bzw. Tritium.
 
-[[Screenshot 2026-01-29 060511.png]]
+![[Screenshot 2026-01-29 060511.png]]
