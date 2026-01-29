@@ -5,9 +5,9 @@ Was man darunter versteht, ist die Verkettung von Aussagen, mit unterschiedliche
 
 Aussagen könnten zum Beispiel sein:
 
-==Es regnet== -> Aussage **A**
-==Ich habe keinen Schirm== -> Aussage **B**
-==Ich werde nass== -> Aussage **C**
+- Es regnet -> Aussage **A**
+- Ich habe keinen Schirm -> Aussage **B**
+- Ich werde nass -> Aussage **C**
 
 Diese Drei Aussagen können unabhängig voneinander entweder Wahr oder Falsch sein. Spannend wird es nun, wenn wir anfangen, sie zu verknüpfen, zum Beispiel:
 
