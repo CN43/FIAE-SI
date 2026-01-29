@@ -6,7 +6,7 @@ Die **elektrische Ladung** bestimmt, wie groß der Elektronenüberschuss oder 
 | Formelzeichen | $Q$           |                                               |
 | ------------- | ------------- | --------------------------------------------- |
 | Einheit       | $C$ oder $As$ | *Colomb oder Amper-Sekunde*                   |
-| Formel        | $Q = I * t$   | $I$ = [Elektrische Stromstärke](#Elektrische Stromstärke) $t$ = Zeit |
+| Formel        | $Q = I * t$   | $I$ = [Elektrische Stromstärke](#Elektrische-Stromstärke) $t$ = Zeit |
 
 # Elektrische Stromstärke
 
