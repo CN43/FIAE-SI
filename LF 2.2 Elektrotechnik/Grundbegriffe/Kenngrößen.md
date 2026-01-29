@@ -1,4 +1,5 @@
-# Elektrische Ladung 
+
+# Elektrische Ladung
 
 Die **elektrische Ladung** bestimmt, wie groß der Elektronenüberschuss oder Elektronenmangel eines Körpers ist. Sie beschreibt also die elektrische Eigenschaft der Atome.
 
