@@ -7,7 +7,7 @@ Die **elektrische Ladung** bestimmt, wie groß der Elektronenüberschuss oder 
 | Formelzeichen | $Q$           |                                               |
 | ------------- | ------------- | --------------------------------------------- |
 | Einheit       | $C$ oder $As$ | *Colomb oder Amper-Sekunde*                   |
-| Formel        | $Q = I * t$   | $I$ = [[#Elektrische Stromstärke]] $t$ = Zeit |
+| Formel        | $Q = I * t$   | $I$ = [Elektrische Stromstärke](#Elektrische-Stromstärke) $t$ = Zeit |
 
 # Elektrische Stromstärke
 
@@ -16,8 +16,8 @@ Die elektrische Stromstäke (electric current intensity) gibt an, wie viele elek
 | Formelzeichen | $I$         |                                                                  |
 | ------------- | ----------- | ---------------------------------------------------------------- |
 | Einheit       | $A$         | *Amper*                                                          |
-| Formel        | $I = Q / t$ | $Q$ = [[#Elektrische Ladung]]  $t$ = Zeit                        |
-|               | $I = U / R$ | $U$ = [Spannung](#Elektrische Spannung) $R$ = elektr. Widerstand |
+| Formel        | $I = Q / t$ | $Q$ = [Elektrische Ladung](#Elektrische-Ladung)  $t$ = Zeit                        |
+|               | $I = U / R$ | $U$ = [Spannung](#Elektrische-Spannung) $R$ = elektr. Widerstand |
 
 # Elektrische Spannung
 
@@ -26,7 +26,7 @@ Die elektrische Spannung gibt an, wie viel Arbeit bzw. Energie nötig ist, um ei
 | Formelzeichen | $U$         |                                                             |
 | ------------- | ----------- | ----------------------------------------------------------- |
 | Einheit       | $V$         | *Amper*                                                     |
-| Formel        | $U = R / I$ | $I$ = [[#Elektrische Stromstärke]] $R$ = elektr. Widerstand |
+| Formel        | $U = R / I$ | $I$ = [Elektrische Stromstärke](#Elektrische-Stromstärke) $R$ = elektr. Widerstand |
 >[!NOTE]
 Siehe: [[Spannungsarten]]
 
