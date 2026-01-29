@@ -12,11 +12,11 @@ Die **elektrische Ladung** bestimmt, wie groß der Elektronenüberschuss oder 
 
 Die elektrische Stromstäke (electric current intensity) gibt an, wie viele elektrische Ladungen in einer bestimmten Zeit durch einen Leiter bewegt werden.
 
-| Formelzeichen | $I$         |                                                          |
-| ------------- | ----------- | -------------------------------------------------------- |
-| Einheit       | $A$         | *Amper*                                                  |
-| Formel        | $I = Q / t$ | $Q$ = [[#Elektrische Ladung]]  $t$ = Zeit                |
-|               | $I = U / R$ | $U$ = [[#Elektrische Spannung]] $R$ = elektr. Widerstand |
+| Formelzeichen | $I$         |                                                                  |
+| ------------- | ----------- | ---------------------------------------------------------------- |
+| Einheit       | $A$         | *Amper*                                                          |
+| Formel        | $I = Q / t$ | $Q$ = [[#Elektrische Ladung]]  $t$ = Zeit                        |
+|               | $I = U / R$ | $U$ = [Spannung](#Elektrische Spannung) $R$ = elektr. Widerstand |
 
 # Elektrische Spannung
 
@@ -26,5 +26,6 @@ Die elektrische Spannung gibt an, wie viel Arbeit bzw. Energie nötig ist, um ei
 | ------------- | ----------- | ----------------------------------------------------------- |
 | Einheit       | $V$         | *Amper*                                                     |
 | Formel        | $U = R / I$ | $I$ = [[#Elektrische Stromstärke]] $R$ = elektr. Widerstand |
+>[!NOTE]
+Siehe: [[Spannungsarten]]
 
-Siehe: Spannungsarten
