@@ -11,7 +11,7 @@ Aussagen könnten zum Beispiel sein:
 
 Diese Drei Aussagen können unabhängig voneinander entweder Wahr oder Falsch sein. Spannend wird es nun, wenn wir anfangen, sie zu verknüpfen, zum Beispiel:
 
-Wenn ==es regnet== **UND** ==ich keinen Schirm habe==, ==werde ich nass==
+Wenn es regnet **UND** ich keinen Schirm habe, werde ich nass
 `oder anders:`
 Wenn A **UND**  B dann C 
 
@@ -31,6 +31,8 @@ Oder: `L = A XOR B`
 Das klingt vielleicht abstrakt, aber genau das macht ein Lichtschalter über dem Bett, der die Deckenlampe aus macht, damit man nicht aufstehen und zur Tür laufen muss.
 
 Für die Informatik ist das in sofern wichtig, dass jeder logische Operator, durch ein entsprechendes Bauteil realisiert ist. Man spricht hier von sogenannten **Gattern**.
+
+![Beispiel Logik-Gatter](/Bilder/TexasInstruments_7400_chip%2C_view_and_element_placement.jpg)
 
 ## Zeichensatz:
 
