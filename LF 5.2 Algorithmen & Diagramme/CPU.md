@@ -4,7 +4,7 @@
 Einfach gesagt, ist die CPU (Centrel Prozessing Unit) das Gehirn eines Computer. In ihr werden Programme verarbeitet und Befehle ausgeführt, die aus dem RAM (Arbeitsspeicher) geladen werden. 
 Die CPU selbst besteht aus mehreren Bauteilen, die zu kennen wichtig ist, um ihre Funktionsweise zu verstehen.
 
-![Prozessor - Aufbau](/Bilder/Screenshot%202026-01-29%20060511.png)
+![Prozessor - Aufbau](/Bilder/c75207d01b58fd2f980bebfff6a22193.jpg)
 
 ## CPU Befehlssatz
 
