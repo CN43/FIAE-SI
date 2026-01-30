@@ -30,7 +30,7 @@ Oder: `L = A XOR B`
 
 Das klingt vielleicht abstrakt, aber genau das macht ein Lichtschalter über dem Bett, der die Deckenlampe aus macht, damit man nicht aufstehen und zur Tür laufen muss.
 
-Für die Informatik ist das in sofern wichtig, dass jeder logische Operator, durch ein entsprechendes Bauteil realisiert ist. Man spricht hier von sogenannten **Gattern**.
+Für die Informatik ist das in sofern wichtig, dass jeder logische Operator, durch ein entsprechendes Bauteil realisiert ist. Man spricht hier von sogenannten **Gattern**.  Das funktioniert, weil unsere Digitaltechnik nach genau dem gleichen Prinzip funktioniert. Ein Signal ist entweder 1 bzw. Wahr, oder eben 0 bzw. Falsch.
 
 ![Beispiel Logik-Gatter](/Bilder/TexasInstruments_7400_chip%2C_view_and_element_placement.jpg)
 
