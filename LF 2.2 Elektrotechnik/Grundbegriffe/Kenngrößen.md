@@ -37,7 +37,9 @@ Siehe: [[Spannungsarten]]
 
 # Elektrische Leistung
 
-Die elektrische Stromstäke (electric current intensity) gibt an, wie viele elektrische Ladungen in einer bestimmten Zeit durch einen Leiter bewegt werden.
+Die elektrische Leistung kennzeichnet die Wirksamkeit der elektrischen Energieumwandlung von
+Bauteilen, Geräten und Anlagen.
+Sie ist die Leistung, welche als elektrische Energie pro Zeit bezogen oder geliefert wird.
 
 | Formelzeichen | $P$         |                                                  |
 | ------------- | ----------- | ------------------------------------------------ |
