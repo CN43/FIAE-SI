@@ -9,6 +9,7 @@ Das heißt: Man braucht zunächst nur drei verschiedene Bausteine zum Programmie
 
 ## Sequenz
 
+<<<<<<< HEAD
 !Bild(UML)
 
 ## Verzweigung
@@ -24,4 +25,7 @@ Das heißt: Man braucht zunächst nur drei verschiedene Bausteine zum Programmie
 
 
 
+=======
+![EVA](/Bilder/Screenshot%202026-02-02%20121924_EVA.png)
+>>>>>>> 93c532117cbb125569b73a16e0fd61c62c2ee608
 
