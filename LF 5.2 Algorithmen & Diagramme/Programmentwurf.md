@@ -9,5 +9,19 @@ Das heißt: Man braucht zunächst nur drei verschiedene Bausteine zum Programmie
 
 ## Sequenz
 
-!Bild
+!Bild(UML)
+
+## Verzweigung
+
+!Bild(Verzweigung)
+
+## Schleifen
+
+!Bild(Schleifen)
+
+
+
+
+
+
 
