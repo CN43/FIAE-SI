@@ -55,6 +55,7 @@ int main() {
  a = a * 1000 + 1;
  cout << a;
  return 0;
+}
 ```
 
 ## Verzweigung
@@ -92,7 +93,7 @@ regen = input("Regnet es?")
 if (regen == "ja"):
 	print("Du brauchst einen Schirm")
 else:
-	Print("Du brauchst keinen Schirm")
+	print("Du brauchst keinen Schirm")
 ```
 
 ### C++
