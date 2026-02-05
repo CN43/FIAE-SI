@@ -13,7 +13,7 @@ Das heißt: Man braucht zunächst nur drei verschiedene Bausteine zum Programmie
 
 ## Verzweigung
 
-!Bild(Verzweigung)
+![IF-Then-ELSE](/Bilder/Screenshot%202026-02-05%20060445.png)
 
 ## Schleifen
 
