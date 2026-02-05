@@ -4,8 +4,8 @@ Satz von Böhm und Jacopini
 
 Das heißt: Man braucht zunächst nur drei verschiedene Bausteine zum Programmieren. Deshalb: Schauen wir uns diese Bausteine an:
 - [Sequenz](##Sequenz)
-- Verzweigung
-- Schleife
+- [Verzweigung](##Verzweigung)
+- [Schleife](##Schleife)
 
 ## Sequenz
 
