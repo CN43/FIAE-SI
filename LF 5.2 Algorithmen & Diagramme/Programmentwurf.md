@@ -1,8 +1,11 @@
 >[!NOTE]
-Jedes Programm, das mit Goto-Anweisungen geschrieben werden kann, kann mit einer Kombination aus Sequenzen, Verzweigungen und Schleifen realisiert werden. 
+Jedes Programm*, das mit Goto-Anweisungen geschrieben werden kann,* kann mit einer **Kombination aus Sequenzen, Verzweigungen und Schleifen** realisiert werden. 
 Satz von Böhm und Jacopini
 
-Das heißt: Man braucht zunächst nur drei verschiedene Bausteine zum Programmieren. Deshalb: Schauen wir uns diese Bausteine an:
+Programme bestehen damit aus Anweisungen, die in einer Kombination von Sequenzen, Verzweigungen und Schleifen angeordnet sind.
+
+Das heißt: Man braucht zunächst nur drei verschiedene Bausteine zum Programmieren. 
+Schauen wir uns diese Bausteine an:
 - [Sequenz](#Sequenz)
 - [Verzweigung](#Verzweigung)
 - [Schleife](#Schleife)
@@ -10,7 +13,7 @@ Das heißt: Man braucht zunächst nur drei verschiedene Bausteine zum Programmie
 ## Sequenz
 
 >[!NOTE]
->Programmbefehle, werden hintereinander weg (von oben nach unten) abgearbeitet
+>Programmbefehle, werden hintereinander (von oben nach unten) abgearbeitet
 
 ![EVA](/Bilder/Screenshot%202026-02-02%20121924_EVA.png)
 
