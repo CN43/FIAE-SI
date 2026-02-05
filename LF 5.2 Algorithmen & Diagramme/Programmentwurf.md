@@ -16,33 +16,41 @@ Das heißt: Man braucht zunächst nur drei verschiedene Bausteine zum Programmie
 
 Beispiel:
 
->[!Pseudocode]
->Eingabe: Zahl
->Zahl = Zahl * 1000 + 1
->Ausgabe: Zahl
+### Pseudocode
+```
+Eingabe: Zahl
+Zahl = Zahl * 1000 + 1
+Ausgabe: Zahl
+```
 
->[!"Minipseudo Programmierer"]
->var a = input("Gib eine Zahl ein!")
->a = number(a)
->a = a * 1000 + 1
->output(a)
+### "Minipseudo Programmierer"
+```
+var a = input("Gib eine Zahl ein!")
+a = number(a)
+a = a * 1000 + 1
+output(a)
+```
 
->[!Python]
->a = input("Gib eine Zahl ein!")
->a = int(a) * 1000 + 1
->print(a)
+### Python
+```
+a = input("Gib eine Zahl ein!")
+a = int(a) * 1000 + 1
+print(a)
+```
 
->[!C++]
->#include <iostream>
->using namespace std;
->
->int main() {
-> int a;
-> cout << "Gib eine Zahl ein!";
-> cin >> a;
-> a = a * 1000 + 1;
-> cout << a;
-> return 0;
+### C++
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+ int a;
+ cout << "Gib eine Zahl ein!";
+ cin >> a;
+ a = a * 1000 + 1;
+ cout << a;
+ return 0;
+```
 
 ## Verzweigung
 
