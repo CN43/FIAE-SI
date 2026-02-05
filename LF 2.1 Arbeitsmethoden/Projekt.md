@@ -11,7 +11,7 @@ Merkmale nach **DIN 69901**
 
 
 Auftraggeber*in
-=gibt Rahmenbedingungen vor, betreut ereignisse und Zwischenergebnisse
+=gibt Rahmenbedingungen vor, betreut Ereignisse und Zwischenergebnisse
 -> Arbeitet nicht am Projekt mit
 
 Projektleitung
