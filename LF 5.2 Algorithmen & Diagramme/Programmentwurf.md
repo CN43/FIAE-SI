@@ -59,7 +59,63 @@ int main() {
 
 ## Verzweigung
 
+>[!NOTE]
+>Programmbefehle oder Befehlsblöcke, werden nur ausgeführt, wenn eine definierte Bedingung erfüllt wird.
+
 ![IF-Then-ELSE](/Bilder/Screenshot%202026-02-05%20060445.png)
+
+>[!NOTE]
+>Beispiel: Ich brauche meinen Schirm nur, wenn es regnet. Regnet es nicht, brauche ich auch keinen Schirm.
+
+### Pseudocode
+```
+Eingabe: Regnet es?
+Wenn ja:
+Ausgabe: Du brauchst einen Schirm
+Ansonsten:
+Ausgabe: Du brauchst keinen Schirm
+```
+
+### "Minipseudo Programmierer"
+```
+var regen = input("Regnet es?")
+if(regen == "ja"){
+	output("Du brauchst einen Schrim")
+} else if(regen="nein"){
+	output("Du brauchst keinen Schirm")
+}
+```
+
+### Python
+```
+regen = input("Regnet es?")
+if (regen == "ja"):
+	print("Du brauchst einen Schirm")
+else:
+	Print("Du brauchst keinen Schirm")
+```
+
+### C++
+```
+#include <iostream>
+#include <string>
+
+int main() {
+    string regen;
+
+    cout << "Regnet es? ";
+    cin >> regen;
+
+    if (regen == "ja") {
+        cout << "Du brauchst einen Schirm" << std::endl;
+    } else {
+        cout << "Du brauchst keinen Schirm" << std::endl;
+    }
+
+    return 0;
+}
+
+```
 
 ## Schleifen
 
