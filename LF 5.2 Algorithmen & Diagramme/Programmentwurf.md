@@ -14,7 +14,8 @@ Das heißt: Man braucht zunächst nur drei verschiedene Bausteine zum Programmie
 
 ![EVA](/Bilder/Screenshot%202026-02-02%20121924_EVA.png)
 
->[!Beispiel:]
+>[!NOTE]
+>Beispiel:
 >Es soll eine durch den Nutzer eingegebene Zahl mit 1000 multipliziert werden. Anschließend wird diese Zahl um 1 erhöht, und wieder ausgegeben
 
 ### Pseudocode
