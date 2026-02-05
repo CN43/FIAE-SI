@@ -17,4 +17,8 @@ Das heißt: Man braucht zunächst nur drei verschiedene Bausteine zum Programmie
 
 ## Schleifen
 
+### Fußgesteuerte Schleife
+
+![DO-WHILE](/Bilder/Screenshot%202026-02-02%20135938_Schleife.png)
+
 !Bild(Schleifen)
