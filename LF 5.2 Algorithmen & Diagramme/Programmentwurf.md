@@ -16,11 +16,33 @@ Das heißt: Man braucht zunächst nur drei verschiedene Bausteine zum Programmie
 
 Beispiel:
 
+>[!Pseudocode]
+Eingabe: Zahl
+Zahl = Zahl * 1000 + 1
+Ausgabe: Zahl
 
-| Pseudocode                                               | "Minipseudo Programmierer"<br>(Herr Grätzer)                                                  | Python                                                                     | C++                                                                                                                                                                                                            |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Eingabe: Zahl<br>Zahl = Zahl * 1000 + 1<br>Ausgabe: Zahl | `var a = input("Gib eine Zahl ein!")`<br>`a = number(a)`<br>`a = a * 1000 + 1`<br>`output(a)` | `a = input("Gib eine Zahl ein!")`<br>`a = int(a) * 1000 + 1`<br>`print(a)` | ```#include <iostream><br>using namespace std;<br><br>int main() {<br>int a;<br>    cout << "Gib eine Zahl ein!";<br>    cin >> a;<br>    a = a * 1000 + 1;<br>    cout << a;<br>    return 0;<br>}<br><br>``` |
-|                                                          |                                                                                               |                                                                            |                                                                                                                                                                                                                |
+>[!"Minipseudo Programmierer"]
+`var a = input("Gib eine Zahl ein!")`
+`a = number(a)`
+`a = a * 1000 + 1`
+`output(a)`
+
+>[!Python]
+>`a = input("Gib eine Zahl ein!")`
+`a = int(a) * 1000 + 1`
+`print(a)`
+
+>[!C++]
+>`#include <iostream>`
+>`using namespace std;`
+>
+>`int main() {`
+> `int a;`
+>  `cout << "Gib eine Zahl ein!";`
+>   `cin >> a;`
+>   ` a = a * 1000 + 1;`
+>   ` cout << a;`
+>   `return 0;`
 
 ## Verzweigung
 
