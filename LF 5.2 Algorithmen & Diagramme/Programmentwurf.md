@@ -9,7 +9,18 @@ Das heißt: Man braucht zunächst nur drei verschiedene Bausteine zum Programmie
 
 ## Sequenz
 
+>[!NOTE]
+>Programmbefehle, werden hintereinander weg (von oben nach unten) abgearbeitet
+
 ![EVA](/Bilder/Screenshot%202026-02-02%20121924_EVA.png)
+
+Beispiel:
+
+
+| Pseudocode                                               | "Minipseudo Programmierer"<br>(Herr Grätzer)                                                  | Python                                                                     | C++                                                                                                                                                                                                            |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Eingabe: Zahl<br>Zahl = Zahl * 1000 + 1<br>Ausgabe: Zahl | `var a = input("Gib eine Zahl ein!")`<br>`a = number(a)`<br>`a = a * 1000 + 1`<br>`output(a)` | `a = input("Gib eine Zahl ein!")`<br>`a = int(a) * 1000 + 1`<br>`print(a)` | ```#include <iostream><br>using namespace std;<br><br>int main() {<br>int a;<br>    cout << "Gib eine Zahl ein!";<br>    cin >> a;<br>    a = a * 1000 + 1;<br>    cout << a;<br>    return 0;<br>}<br><br>``` |
+|                                                          |                                                                                               |                                                                            |                                                                                                                                                                                                                |
 
 ## Verzweigung
 
