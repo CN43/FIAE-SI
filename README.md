@@ -6,14 +6,14 @@
 
 ### Grundlagen
 
-- [[Bohr´sches Atommodell]]
-- [[Kenngrößen]]
+- [Bohr´sches Atommodell](/LF%202.2%20Elektrotechnik/Grundbegriffe/Bohr´sches%20Atommodell.md)
+- [Kenngrößen](/LF%202.2%20Elektrotechnik/Grundbegriffe/Kenngrößen.md)
 - Strom- und Spannungsarten (WIP)
 
 ### Schaltungen
 
-- [[Formeln]]
-- [[Schaltungsarten_Übersicht.pdf]]
+- [Formeln](/LF%202.2%20Elektrotechnik/Schaltungen/Formeln.md)
+- [Schaltungsarten Übersicht](/LF%202.2%20Elektrotechnik/Schaltungen/Schaltungsarten_Übersicht.pdf)
 
 ---
 ## LF 5.2 Algorithmen & Diagramme
@@ -21,15 +21,15 @@
 
 ### Grundlage
 
-- [[Aussagenlogik]]
-- [[CPU]]
-- [[Zahlensysteme]]
+- [Aussagenlogik](/LF%205.2%20Algorithmen%20%26%20Diagramme/Grundlagen/Aussagenlogik.md)
+- [CPU](/LF%205.2%20Algorithmen%20%26%20Diagramme/Grundlagen/CPU.md)
+- [Zahlensysteme](/LF%205.2%20Algorithmen%20%26%20Diagramme/Grundlagen/Zahlensysteme.md)
 - Datenübertragung (WIP)
 
 ### UML (Unified Modeling Language)
 
-- [[Aktivitätsdiagramm]]
+- [Aktivitätsdiagramm](/LF%205.2%20Algorithmen%20%26%20Diagramme/UML/Aktivitätsdiagramm.md)
 
 ### Programmierung
 
-- [[Programmentwurf]]
+- [Programmentwurf](/LF%205.2%20Algorithmen%20%26%20Diagramme/Programmierung/Programmentwurf.md)
