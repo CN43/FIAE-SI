@@ -8,8 +8,8 @@ Ein guter Vergleich sind römische Zahlen, die ein kompliziertes System von Zeic
 Im Dezimalsystem arbeiten wir mit Stellen, die jeweils ein Vielfaches der entsprechenden 10er-Potenz darstellen.
 
 >[!NOTE]
-Zeichensatz: `0`, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`
-Basis: `10`
+>Zeichensatz: `0`, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`
+>Basis: `10`
 
 Klingt kompliziert? Ist es eigentlich gar nicht. Folgende Tabelle wird es verdeutlichen:
 
@@ -30,8 +30,8 @@ $$
 Nachdem wir das nun wissen, ist der Sprung zum Dualsystem gar nicht mehr schwer, das funktioniert nämlich genauso. Genau genommen gibt es nur zwei Unterschiede:
 
 >[!NOTE]
- Zeichensatz: `0` und `1`
- Basis: `2`
+>Zeichensatz: `0` und `1`
+>Basis: `2`
  
 Auch damit kann man wieder eine ähnliche Tabelle erstellen, wie im Dezimalsystem.
 
