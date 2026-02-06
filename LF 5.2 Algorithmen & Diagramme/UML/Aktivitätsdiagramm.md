@@ -1,3 +1,5 @@
+[zurück](/README.md)
+
 >[!NOTE]
 >Ein **Aktivitätsdiagramm** (activity diagram) ist ein Verhaltensdiagramm der [Unified Modeling Language](https://de.wikipedia.org/wiki/Unified_Modeling_Language "Unified Modeling Language") (UML), einer Modellierungssprache für Software und andere Systeme, und stellt die Vernetzung von elementaren Aktionen und deren Verbindungen mit Kontroll- und Datenflüssen grafisch dar.
 

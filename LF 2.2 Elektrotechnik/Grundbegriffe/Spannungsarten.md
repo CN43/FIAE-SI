@@ -1,5 +1,6 @@
 # Spannungsarten
 
+[zurück](/README.md)
 ## Gleichspannung 
 
 - Auch: Direct Voltage

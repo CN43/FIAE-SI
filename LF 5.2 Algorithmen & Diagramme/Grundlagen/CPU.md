@@ -1,4 +1,4 @@
-
+[zurück](/README.md)
 ## Was ist die CPU?
 
 Einfach gesagt, ist die CPU (Centrel Prozessing Unit) das Gehirn eines Computer. In ihr werden Programme verarbeitet und Befehle ausgeführt, die aus dem RAM (Arbeitsspeicher) geladen werden. 

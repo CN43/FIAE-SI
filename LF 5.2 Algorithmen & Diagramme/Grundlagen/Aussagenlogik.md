@@ -1,5 +1,7 @@
 # Aussagenlogik
 
+[zurück](/README.md)
+
 Aussagenlogik ist etwas, was uns nicht nur in der Informatik und auch der Mathematik begegnet. Tatsächlich bildet auch eine wichtige Grundlage für unser tägliches Leben. 
 Was man darunter versteht, ist die Verkettung von Aussagen, mit unterschiedlichem Wahrheitsgehalt.
 

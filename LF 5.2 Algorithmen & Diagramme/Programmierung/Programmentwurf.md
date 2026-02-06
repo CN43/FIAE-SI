@@ -1,3 +1,5 @@
+[zurück](/README.md)
+
 >[!NOTE]
 Jedes Programm*, das mit Goto-Anweisungen geschrieben werden kann,* kann mit einer **Kombination aus Sequenzen, Verzweigungen und Schleifen** realisiert werden. 
 Satz von Böhm und Jacopini
