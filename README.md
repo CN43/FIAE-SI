@@ -1,5 +1,8 @@
 # Inhaltsverzeichnis:
 
+>[!NOTE]
+>Im Verzeichnis "Berichtsheft", wird das Programm zur automatisierten Erstellung des Wochenberichtes zu finden sein.
+>Aktuell handelt es sich dabei um einen Prototyp, welcher noch *NICHT* funktional ist!
 
 ---
 ## LF 2.2 Elektrotechnik
