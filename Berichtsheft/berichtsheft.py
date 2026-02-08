@@ -2,17 +2,37 @@ import argparse
 import csv
 import configparser
 import datetime as dt
-from pathlib import Path
 
 import requests
 import re
 import io
 
-DAY_RE = re.compile(r"\.\s+\d{2}\.\d{2}\.")
-
-TIME_RE = re.compile(r"^\d{2}:\d{2}$")
-
+from pathlib import Path
+from collections import defaultdict
 from datetime import datetime
+
+DAY_RE = re.compile(r"\.\s+\d{2}\.\d{2}\.")
+TIME_RE = re.compile(r"^\d{2}:\d{2}$")
+LF_RE = re.compile(r"\bLF\s*\d+(?:\.\d+)?\b")
+DATE_RE = re.compile(r"\d{2}\.\d{2}\.")
+
+def normalize_key(entry: str) -> str:
+    entry = entry.strip()
+
+    # 1️⃣ Lernfeld extrahieren
+    m = LF_RE.search(entry)
+    if m:
+        # Leerzeichen normieren → "LF 2.4"
+        return re.sub(r"\s+", " ", m.group(0)).strip()
+
+    # 2️⃣ sonstige Einheiten (Lehrername entfernen)
+    for sep in (" - ", " | "):
+        if sep in entry:
+            return entry.split(sep, 1)[0].strip()
+
+    return entry
+
+
 
 def duration_hours(start_str, end_str):
     fmt = "%H:%M"
@@ -84,6 +104,8 @@ def fetch_csv(url: str) -> str:
     return r.text
     
 def main():
+
+    schedule: dict[str, dict[str, float]] = defaultdict(lambda: defaultdict(float))
     args = parse_args()
     out_dir = Path(args.out)
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -92,12 +114,7 @@ def main():
     week_start = resolve_week_start(cfg)
     week_end = week_start + dt.timedelta(days=4)
 
-    week = {}
-    header = []
-    slot = []
-
     csv_text = fetch_csv(cfg["sheet_csv_url"])  
-    DATE_RE = re.compile(r"\d{2}\.\d{2}\.")
     
 
     csv_reader = csv.reader(io.StringIO(csv_text), delimiter=",")
@@ -106,21 +123,23 @@ def main():
 
         if is_week_header(row):
             current_days = current_days = [re.findall(r"\d{2}\.\d{2}\.", cell)[0] for cell in row[4:9]]
-            header.append(current_days)
+
+
+
+        if is_slot_row(row):
+            dur = duration_hours(row[2].strip(), row[3].strip())
+
+            for day, entry in zip(current_days, row[4:9]):
+                entry = (entry or "").strip()
+                if not entry or entry.upper() == "FREI":
+                    continue
+
+                key = normalize_key(entry)
+                schedule[day][key] += dur
         
-        
-        if is_slot_row(row):  
-            slot.append(row[4:9])
-            # print(duration_hours(row[2],row[3]))
-        
-    print(header)
-    print(slot)
+    for day, lfs in schedule.items():
+        print(day, sum(lfs.values()), lfs)
 
-
-
-    # print(tuple(week))
-
-    # TODO: CSV parsen -> Mo-Fr aggregieren -> Excel-Maske befuellen (optional)
     # TODO: DOCX aus template erzeugen (Start/Enddatum + Tagespunkte + Stunden)
 
     # Platzhalter-Ausgabe, damit du siehst, dass alles wired ist:
