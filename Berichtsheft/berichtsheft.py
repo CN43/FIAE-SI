@@ -1,9 +1,43 @@
 import argparse
+import csv
 import configparser
 import datetime as dt
 from pathlib import Path
 
 import requests
+import re
+import io
+
+DAY_RE = re.compile(r"\.\s+\d{2}\.\d{2}\.")
+
+TIME_RE = re.compile(r"^\d{2}:\d{2}$")
+
+from datetime import datetime
+
+def duration_hours(start_str, end_str):
+    fmt = "%H:%M"
+    start = datetime.strptime(start_str, fmt)
+    end   = datetime.strptime(end_str, fmt)
+    return (end - start).total_seconds() / 3600
+
+
+def is_slot_row(row):
+    if len(row) < 4:
+        return False
+    return bool(
+        TIME_RE.match((row[2] or "").strip()) and
+        TIME_RE.match((row[3] or "").strip())
+    )
+
+    return
+
+def is_week_header(row):
+    if len(row) < 9:
+        return False
+
+    cells = row[4:9]
+    return all(DAY_RE.search((c or "").strip()) for c in cells)
+
 
 def monday_of_week(date: dt.date) -> dt.date:
     return date - dt.timedelta(days=date.weekday())
@@ -58,7 +92,33 @@ def main():
     week_start = resolve_week_start(cfg)
     week_end = week_start + dt.timedelta(days=4)
 
-    csv_text = fetch_csv(cfg["sheet_csv_url"])
+    week = {}
+    header = []
+    slot = []
+
+    csv_text = fetch_csv(cfg["sheet_csv_url"])  
+    DATE_RE = re.compile(r"\d{2}\.\d{2}\.")
+    
+
+    csv_reader = csv.reader(io.StringIO(csv_text), delimiter=",")
+
+    for row in csv_reader:
+
+        if is_week_header(row):
+            current_days = current_days = [re.findall(r"\d{2}\.\d{2}\.", cell)[0] for cell in row[4:9]]
+            header.append(current_days)
+        
+        
+        if is_slot_row(row):  
+            slot.append(row[4:9])
+            # print(duration_hours(row[2],row[3]))
+        
+    print(header)
+    print(slot)
+
+
+
+    # print(tuple(week))
 
     # TODO: CSV parsen -> Mo-Fr aggregieren -> Excel-Maske befuellen (optional)
     # TODO: DOCX aus template erzeugen (Start/Enddatum + Tagespunkte + Stunden)
