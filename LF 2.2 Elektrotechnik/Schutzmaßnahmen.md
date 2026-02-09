@@ -61,6 +61,8 @@ Sie sind ausgeführt als:
 - D-System, auch als DIAZED (Diametrisch abgestuftes zweiteiliges Edison-Gewinde) benannt
 - D0-System, auch als NEOZED (NEO = neu) bezeichnet
 
+![Schraubsicherung]
+
 Funktionsweise bei Überlast oder Kurzschluss:
 
 1. Schmelzleiter und Kennmelderhaltedraht „brennen“ durch (schmelzen) 
@@ -75,7 +77,7 @@ Funktionsweise bei Überlast oder Kurzschluss:
 
 - Funktionsweise bei Überlast: Der Bimetall-Auslöser verformt sich durch Erwärmung und betätigt dadurch den Abschaltmechanismus.
 - Funktionsweise bei Kurzschluss: Die Magnetwirkung des vom Strom durchflossenen Schnellauslösers betätigt den Abschaltautomatismus.
-![Sicherung]()
+![Sicherung](/Bilder/Screenshot%202026-02-09%20102131_sicherung.png)
 
 >[!NOTE]
 >Zu Reparatur-/Wartungszwecken kann man den Automaten auch manuell auslösen.
