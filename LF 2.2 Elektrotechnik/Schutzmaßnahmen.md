@@ -5,7 +5,7 @@
 >- elektrische Leiter haben eine zugelassene maximale Strombelastung 
 > - Überstrom entsteht durch eine zu hohe Strombelastung
 
-[Brand Beispiel](/Bilder/Screenshot%202026-02-09%20100803_brand.png)
+![Brand Beispiel](/Bilder/Screenshot%202026-02-09%20100803_brand.png)
 
 | **Überlastung**              | **Kurzschluss**          |
 | ---------------------------- | ------------------------ |
