@@ -61,7 +61,7 @@ Sie sind ausgeführt als:
 - D-System, auch als DIAZED (Diametrisch abgestuftes zweiteiliges Edison-Gewinde) benannt
 - D0-System, auch als NEOZED (NEO = neu) bezeichnet
 
-![Schraubsicherung]
+![Schraubsicherung](/Bilder/Screenshot%202026-02-09%20102333_schraubsicherung.png)
 
 Funktionsweise bei Überlast oder Kurzschluss:
 
@@ -82,3 +82,18 @@ Funktionsweise bei Überlast oder Kurzschluss:
 >[!NOTE]
 >Zu Reparatur-/Wartungszwecken kann man den Automaten auch manuell auslösen.
 
+
+## Auslösezeit und Auslösecharakteristik
+
+![Strom-Zeit-Kennlinie]()
+### Auslösezeit (= Abschaltzeit)
+
+- Sie ist die Zeit, die vom Beginn des Überstromes bis zur Unterbrechung des Stromkreises benötigt wird. 
+
+### Auslösecharakteristik 
+
+- Sie definiert, bei welcher Überstromstärke der Stromkreis unterbrochen wird. 
+
+ Beispiel: 
+- Auslösecharakteristik B Auslösung bei Überlast = 1,13 bis 1,45-fache des Nennstroms
+- Auslösung bei Kurzschluss = 3 bis 5-fache des Nennstroms
