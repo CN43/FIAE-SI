@@ -85,7 +85,7 @@ Funktionsweise bei Überlast oder Kurzschluss:
 
 ## Auslösezeit und Auslösecharakteristik
 
-![Strom-Zeit-Kennlinie]()
+![Strom-Zeit-Kennlinie](/Bilder/Screenshot%202026-02-09%20102644_Kennlinie.png)
 ### Auslösezeit (= Abschaltzeit)
 
 - Sie ist die Zeit, die vom Beginn des Überstromes bis zur Unterbrechung des Stromkreises benötigt wird. 
@@ -95,5 +95,5 @@ Funktionsweise bei Überlast oder Kurzschluss:
 - Sie definiert, bei welcher Überstromstärke der Stromkreis unterbrochen wird. 
 
  Beispiel: 
-- Auslösecharakteristik B Auslösung bei Überlast = 1,13 bis 1,45-fache des Nennstroms
-- Auslösung bei Kurzschluss = 3 bis 5-fache des Nennstroms
+- Auslösecharakteristik B Auslösung bei Überlast = ==1,13 bis 1,45-fache des Nennstroms==
+- Auslösung bei Kurzschluss = ==3 bis 5-fache des Nennstroms==
