@@ -9,7 +9,7 @@
 >[!NOTE]
 >Wenn eine Bedingung zutrifft wird der ja-Block ausgeführt. Wenn nicht wird der nein-Block ausgeführt. Diese können aus mehreren Anweisungen bestehen oder können im nein-Fall auch leer bleiben.
 
-![](/Bilder/Screenshot 2026-02-16 131025.png)
+![](/Bilder/Screenshot%202026-02-16%20131025.png)
 
 
 # Fallauswahl - Mehrfachauswahl
