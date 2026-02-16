@@ -3,7 +3,7 @@
 >[!NOTE]
 >Jede Anweisung wird in einem rechteckigen Strukturblock geschrieben.
 
-![](/Bilder/Screenshot 2026-02-16 131025.png)
+![](/Bilder/Screenshot%202026-02-16%20131025.png)
 
 ## Verzweigung
 >[!NOTE]
