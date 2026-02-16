@@ -9,14 +9,14 @@
 >[!NOTE]
 >Wenn eine Bedingung zutrifft wird der ja-Block ausgeführt. Wenn nicht wird der nein-Block ausgeführt. Diese können aus mehreren Anweisungen bestehen oder können im nein-Fall auch leer bleiben.
 
-![](/Bilder/Screenshot%202026-02-16%20131025.png)
-
+![](/Bilder/Screenshot%202026-02-16%131242.png)
 
 # Fallauswahl - Mehrfachauswahl
 >[!NOTE]
 >Anhand des Zustandes einer Variablen wird einer von mehreren Anweisungsblöcken ausgeführt. Trifft keiner der Fälle zu, kann es einen Alternativblock geben.
 
-![](/Bilder/Screenshot 2026-02-16 131502.png)
+![](/Bilder/Screenshot%2026-02-16%131502.png)
+
 
 # Kopfgesteuerte Schleife
 >[!NOTE]
