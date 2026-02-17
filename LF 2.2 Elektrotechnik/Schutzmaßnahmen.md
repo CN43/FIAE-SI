@@ -10,7 +10,6 @@
 | **Überlastung**              | **Kurzschluss**          |
 | ---------------------------- | ------------------------ |
 | langfristig, aber nur gering | kurzfristig, aber extrem |
-
 Eine unzulässig hohe Erwärmung führt zur Überhitzung, also zur thermischen Zerstörung der Leitung und ggf. anderer Betriebsmittel.
 
 - es besteht eine Brandgefahr für die Anlage, für Räume und Gebäude…
