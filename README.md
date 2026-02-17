@@ -39,3 +39,4 @@
 
 - [Programmentwurf (WIP)](/LF%205.2%20Algorithmen%20%26%20Diagramme/Programmierung/Programmentwurf.md)
 - [Struktogramme Übersicht](LF%205.2%20Algorithmen%20%26%20Diagramme/Programmierung/Struktogramme.md)
+- [Operatoren](LF%205.2%20Algorithmen%20&%20Diagramme/Programmierung/Operatoren.md)
