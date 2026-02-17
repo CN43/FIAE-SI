@@ -6,10 +6,15 @@ Programmiersprachen haben im Allgemeinen Operatoren. Das sind bestimmte Zeichen,
 Das wohl einfachste Beispiel ist "-", das Minus-Zeichen. Das gibt dem Computer das Signal: hier wird gerechnet - und zwar Subtrahiert.
 
 Warum ist "-" einfacher als "+"?
+
 Weil "+" mehrfach belegt ist - es hat also, je nach Umstand, mehrere Bedeutungen.
+
 Für Zahlen gilt: "+" bedeutet Addition! Es wird also gerechnet.
+
 Sobald aber mindestens einer der Operanden, also der Werte, die links und rechts vom Operator stehen, keine Zahl ist - dann ändert sich die Bedeutung des "+".
+
 Wenn man also mit Zeichenfolgen (auch: Strings, wie etwa "abc" oder "Hallo!") arbeitet, dann bedeutet das "+": Diese Zeichenfolgen werden aneinandergehängt!
+
 Man nennt dieses "aneinanderhängen" auch "Konkatenation".
 
 ### Liste bisher behandelter Operatoren
