@@ -25,7 +25,14 @@ tbd
 
 ## SMARTe Ziele formulieren
 
-tbd
+Grundlage dieser Methode ist die Behauptung, dass sich Ziele besonders gut erfüllen lassen, wenn sie die folgenden 5 Eigenschaften haben:
+
+- Spezifisch: Das Ziel soll so konkret wie möglich formuliert sein, damit mit hoher Genauigkeit bestimmt werden kann, ob das Ziel erreicht wurde
+- Messbar: Für das Ziel sollen qualitative und quantitative Messgrößen bestimmt werden, um Fortschritt und/oder Erfolg zu messen
+- Attraktiv: Das Ziel sollte attraktiv sein - für den Ausführenden, damit Motivation entsteht; für den Auftraggeber, damit Geld entsteht.
+- Realistisch: Das Ziel sollte auch umsetzbar sein, sowohl allgemein als auch mit der gegebenen Zeit und Ressourcen
+- Terminiert: Das Ziel soll zeitlich gebunden geplant werden. Bis wann ist was zu erledigen?
+
 
 ## Zielplan & Zeitplan
 
