@@ -5,6 +5,9 @@
 >Aktuell handelt es sich dabei um einen Prototyp, welcher noch *NICHT* funktional ist!
 
 ---
+## LF 1.1 Das Unternehmen und die eigene Rolle im Betrieb
+
+- [Bedürfnisse und Güter]("/LF 1.1 Die eigene Rolle im Betrieb/Bedürfnisse und Güter.md")
 ## LF 2.1 Arbeitsmethoden
 
 - [Projekt](/LF%202.1%20Arbeitsmethoden/Projekt.md)

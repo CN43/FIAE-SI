@@ -19,7 +19,7 @@ Physiologisch → Sicherheit → Soziales → Wertschätzung → Selbstverwirkli
 
 Aber: Baut nicht nur aufeinander auf, sondern greift auch ineinander ein (siehe Beispiel Schönheits-OP am Hintern, man gibt potenziell Gesundheit aus, um soziale Ziele zu verwirklichen)
 
-![[Beduerfnisse.drawio.png]]
+![Bedürfnisse](Bilder/Beduerfnisse.drawio.png)
 
 ## Vom Bedürfnis zur Nachfrage
 
