@@ -62,6 +62,7 @@ Produktionsgüter: dienen der Herstellung anderer Güter (gewerblich)
 - Verbrauchsgüter (kurzlebig, einmalig)
 - Substitutionsgüter (miteinander ersetzbar, Butter & Margarine; steigt Konsum von A, sinkt B)
 - Komplementärgüter (gegenseitig ergänzend, Auto & Benzin; steigt A dann steigt auch B)
+- (Missgüter: Bringen nichts und kosten (Aufwand) bei der Entsorgung, Müll)
 
 **Dienstleistungen:**
 - Nicht als Eigentum erwerbbar
