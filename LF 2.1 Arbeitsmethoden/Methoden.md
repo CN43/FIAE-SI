@@ -4,8 +4,8 @@ Ziel des Brainstormings ist es, **ohne Wertung** alle möglichen Ideen zu einem 
 
 Erst im Anschluss ist es an der Zeit, die gesammelten Ideen einzugrenzen und auf Umsetzbarkeit zu prüfen. Dafür eignet sich beispielsweise das Brainwriting.
 
-| Vorteile   | Nachteil  |
-| ---------- | --------- |
+| Vorteile                                                                                                                                                                                                            | Nachteile                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - Einbringen vielfältiger Ideen<br>- viele Ideen in kurzer Zeit, schneller Austausch<br>- keine Vorbereitung nötig, spontan<br>- Fokus, Einstimmen auf's Thema<br>- keine Beurteilung der Ideen in der Kreativphase | - Dominanzverhalten bestimmter Charaktere<br>- zeitliche Überschreitung möglich -> Druck<br>- Ideenfindung ist von Erfahrungen, Kreativität und Motivation der Mitglieder abhängig<br>- bei größeren Gruppen Moderator notwendig<br>- Angst vor Blamage<br><br> |
 
 ## Brainwriting
