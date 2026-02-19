@@ -7,7 +7,7 @@
 ---
 ## LF 1.1 Das Unternehmen und die eigene Rolle im Betrieb
 
-- [Bedürfnisse und Güter]("/LF 1.1 Die eigene Rolle im Betrieb/Bedürfnisse und Güter.md")
+- [Bedürfnisse und Güter](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Bedürfnisse%20und%20Güter.md)
 ## LF 2.1 Arbeitsmethoden
 
 - [Projekt](/LF%202.1%20Arbeitsmethoden/Projekt.md)
