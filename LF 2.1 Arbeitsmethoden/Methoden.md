@@ -21,7 +21,15 @@ Hierbei wichtig: Dass zwischen einzelnen Ideen-Punkten beim erstmaligen Schreibe
 
 ## Mindmap
 
-tbd
+Um Zusammenhänge besser darzustellen, kann man die Ergebnisse aus vorherigen Schritten in einer Mind-Map festhalten. Dafür wird das Thema in Unterkategorien aufgeteilt, denen einzelne Stichpunkte oder weitere (Unter-)Unterkategorien angehören.
+
+Der Themenname steht im Mittelpunkt des Diagrammes, die Unterthemen verzweigen sich von dort. Das sieht beispielsweise so aus:
+
+![Mindmap](/Bilder/Mindmap_Probeprojekt.drawio.png)
+
+| Vorteile                                                                                                                                                               | Nachteile                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| - Zusammenhänge verstehen und darstellen<br>- Inhalte besser merken<br>- Durch erneutes Aufarbeiten Chance für neue Ideen<br>- Anschauliches Resultat für Auftraggeber | - Zeitaufwand<br>- möglicherweise keine neuen Erkenntnisse<br>- kann unübersichtlich werden |
 
 ## SMARTe Ziele formulieren
 
@@ -34,7 +42,10 @@ Grundlage dieser Methode ist die Behauptung, dass sich Ziele besonders gut erfü
 - Terminiert: Das Ziel soll zeitlich gebunden geplant werden. Bis wann ist was zu erledigen?
 
 
-## Zielplan & Zeitplan
+## Zielplan
+
+tbd
+## Zeitplan
 
 tbd
 
@@ -42,6 +53,9 @@ tbd
 
 tbd
 
-## Protokoll & Bericht
+## Protokoll
+
+tbd
+## Bericht
 
 tbd
