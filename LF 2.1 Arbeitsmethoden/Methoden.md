@@ -1,3 +1,12 @@
+## Übersicht
+
+- [[#Brainstorming]]
+- [[#Brainwriting]]
+- [[#Mindmap]]
+- [[#SMARTe Ziele formulieren]]
+- [[#Ziel-/Arbeitsplan & Zeitplan]]
+- [[#Entscheidungsmatrix]]
+
 ## Brainstorming 
 
 Ziel des Brainstormings ist es, **ohne Wertung** alle möglichen Ideen zu einem Thema zu sammeln. Die Ideen werden in einer Gruppe ohne Form in den Raum geworfen und ohne weiteren Kommentar oder Bewertung gesammelt und dokumentiert.
@@ -88,10 +97,3 @@ Dann werden die Entscheidungskriterien gewichtet: Desto wichtiger, desto höher 
 Im nächsten Schritt werden Punkte vergeben: Desto besser eine Option im Vergleich zu den anderen abschneidet, desto höher die Punktzahl in einem Kriterium. Anschließend wird die Punktzahl mit der Gewichtung verrechnet. Hierbei **wichtig: Prozentzeichen beachten!** Es soll also beispielsweise 2 \* 50%, also 2 \* 0,5 = 1 gerechnet werden, und **nicht** 2 \* 50 = 100!
 
 Die Matrix wird fertiggestellt, indem man die Summen der Zwischenergebnisse bildet (Ergebniszeile). Da bei der vorherigen Punktevergabe mehr Punkte für ein besseres Merkmal vergeben wurde, ist die Option mit den meisten Punkten auch hier die beste.
-
-## Protokoll
-
-tbd
-## Bericht
-
-tbd
