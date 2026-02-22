@@ -42,12 +42,29 @@ Grundlage dieser Methode ist die Behauptung, dass sich Ziele besonders gut erfü
 - Terminiert: Das Ziel soll zeitlich gebunden geplant werden. Bis wann ist was zu erledigen?
 
 
-## Zielplan
+## Ziel-/Arbeitsplan & Zeitplan
 
-tbd
-## Zeitplan
+Ein wichtiger Schritt der Planung ist es, Ziele und Termine für deren Erledigung festzulegen. Hierfür eignet sich die Tabellenform. Im Unterricht haben wir dafür zwei Formate kennengelernt.
 
-tbd
+- **Zielplan** (Beispiel aus der Powerpoint)
+
+| Ziel/Aufgabe             |       Wer?        | Bis Wann?  | Details                |
+| :----------------------- | :---------------: | :--------: | :--------------------- |
+| Teilnehmende einladen    |  Projektleitung   | xx.xx.2025 | Einladung per Mail     |
+| Räume und Technik buchen | Organisationsteam | xx.xx.2025 | /                      |
+| Catering organisieren    |    Event-Team     | xx.xx.2025 | Angebote noch einholen |
+
+- **Zeitplan**
+
+|     Uhrzeit     | verantwortliche Person(en) | Tätigkeit                           | Details            | Erledigt? |
+| :-------------: | :------------------------: | :---------------------------------- | :----------------- | :-------: |
+| 12:00 bis 13:00 | Projektleitung, Event-Team | Besprechung zum Stand des Caterings | /                  |     ✓     |
+| 13:00 bis 15:00 |     Organisationsteam      | Registrierung der Teilnehmer        | Datei überarbeiten |           |
+
+Nicht besprochen, aber den Beispielen zu entnehmen: der Zielplan befasst sich mit dem Gesamtbild und der längerfristigeren Planung, der Zeitplan kann auch kurzfristiger (zum Beispiel auf einen bestimmten Tag beschränkt) sein.
+
+Vorteile dieser Art von Planung ist die bessere Übersicht, die Entlastung des Gedächtnisses, eine Motivationssteigerung bei jedem gesetzten "✓", eine gesenkte Ablenkungs- und Vergessensrate und aus all dem folgend eine Steigerung des Planerfolges.
+
 
 ## Entscheidungsmatrix
 
