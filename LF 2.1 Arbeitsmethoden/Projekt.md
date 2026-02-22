@@ -28,7 +28,7 @@ Projektauftrag
 
 Initiierung
 =schaffen von notwendigen Strukturen, Rahmenbedingungen und Voraussetzungen; Analyse der Anforderungen -> Auswertung des Arbeitsauftrages
-Schritte: Projektleitung bestimmen, Projektziele klären, Projektteams zusammenstellen, Kommunikation organisieren, Projektstruktur festlegen (und Fragen der [Dokumentation](/LF%202.1%20Arbeitsmethoden/Dokumentation%20-%20Protokoll%20&%20Bericht.md) klären)
+Schritte: Projektleitung bestimmen, Projektziele klären, Projektteams zusammenstellen, Kommunikation organisieren, Projektstruktur festlegen (und Fragen der [Dokumentation](/LF%202.1%20Arbeitsmethoden/Dokumentation%20-%20Protokoll%20&%20Bericht.md) klären, [Vorschriften und gesetzliche Bestimmungen](/LF%202.1%20Arbeitsmethoden/Dokumentation%20-%20Protokoll%20&%20Bericht.md#bericht) klären)
 mögliche Arbeitsmethoden: Brainstorming, Brainwriting, Mindmap
 
 Planung
