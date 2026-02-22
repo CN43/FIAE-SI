@@ -10,7 +10,7 @@ Merkmale nach **DIN 69901**
 - Fachübergreifend, komplex
 
 
-Auftraggeber*in
+Auftraggeber\*in
 =gibt Rahmenbedingungen vor, betreut Ereignisse und Zwischenergebnisse
 -> Arbeitet nicht am Projekt mit
 
@@ -28,7 +28,7 @@ Projektauftrag
 
 Initiierung
 =schaffen von notwendigen Strukturen, Rahmenbedingungen und Voraussetzungen; Analyse der Anforderungen -> Auswertung des Arbeitsauftrages
-Schritte: Projektleitung bestimmen, Projektziele klären, Projektteams zusammenstellen, Kommunikation organisieren, Projektstruktur festlegen
+Schritte: Projektleitung bestimmen, Projektziele klären, Projektteams zusammenstellen, Kommunikation organisieren, Projektstruktur festlegen (und Fragen der [Dokumentation](/LF%202.1%20Arbeitsmethoden/Dokumentation%20-%20Protokoll%20&%20Bericht.md) klären)
 mögliche Arbeitsmethoden: Brainstorming, Brainwriting, Mindmap
 
 Planung
