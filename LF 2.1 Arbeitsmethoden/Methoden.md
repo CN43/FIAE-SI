@@ -68,7 +68,26 @@ Vorteile dieser Art von Planung ist die bessere Übersicht, die Entlastung des G
 
 ## Entscheidungsmatrix
 
-tbd
+In einem Projekt können an jeder Stelle immer mal wieder Entscheidungen fallen, bei denen zwischen zwei oder mehr Optionen eine ausgewählt werden soll. Will ich lieber das traditionell weiße, oder doch lieber das knall-rote Brautkleid für meine Hochzeit? Soll der neue Speicher HDD oder lieber SSD sein? Und welchen dieser vier Räume mieten wir eigentlich für unser Projekt?
+
+Bei privaten Projekten entscheidet man das gerne "aus dem Bauch heraus". Hat man aber einen Auftraggeber, dann wollen solche Entscheidungen gerne gut begründet sein. Dafür eignet sich die Entscheidungsmatrix.
+
+Beispiel aus der Powerpoint:
+
+|          |      | Catering 1 |              | Catering 2 |             | Catering 3 |              | Catering 4 |              |
+| :------- | :--: | :--------: | :----------: | :--------: | :---------: | :--------: | :----------: | :--------: | :----------: |
+| Preis    | 50%  |    500€    |   2\*0,5=1   |    500€    |  2\*0,5=1   |    750€    |  1\*0,5=0,5  |    300€    |  3\*0,5=1,5  |
+| Qualität | 25%  |    gut     | 2\*0,25=0,5  |    gut     | 2\*0,25=0,5 |  sehr gut  | 3\*0,25=0,75 |    okay    | 1\*0,25=0,25 |
+| Auswahl  | 25%  |     S      | 1\*0,25=0,25 |     M      | 2\*0,25=0,5 |     M      | 2\*0,25=0,5  |     L      | 3\*0,25=0,75 |
+| Ergebnis | 100% |     /      |     1,75     |     /      |      2      |     /      |     1,75     |     /      |   **2,75**   |
+
+Wie im Beispiel zu sehen, werden für jede der Optionen, zwischen denen sich entschieden werden soll, entsprechende Entscheidungskriterien (hier: Preis, Qualität, und Auswahl) gesucht. Das sollten nicht zu viele, aber auch nicht zu wenige sein - 3 bis 5 seien gut.
+
+Dann werden die Entscheidungskriterien gewichtet: Desto wichtiger, desto höher der Anteil an der Entscheidung. Im Beispiel war der Preis mit 50% besonders aussagekräftig.
+
+Im nächsten Schritt werden Punkte vergeben: Desto besser eine Option im Vergleich zu den anderen abschneidet, desto höher die Punktzahl in einem Kriterium. Anschließend wird die Punktzahl mit der Gewichtung verrechnet. Hierbei **wichtig: Prozentzeichen beachten!** Es soll also beispielsweise 2 \* 50%, also 2 \* 0,5 = 1 gerechnet werden, und **nicht** 2 \* 50 = 100!
+
+Die Matrix wird fertiggestellt, indem man die Summen der Zwischenergebnisse bildet (Ergebniszeile). Da bei der vorherigen Punktevergabe mehr Punkte für ein besseres Merkmal vergeben wurde, ist die Option mit den meisten Punkten auch hier die beste.
 
 ## Protokoll
 
