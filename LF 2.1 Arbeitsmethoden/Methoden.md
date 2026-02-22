@@ -1,11 +1,11 @@
 ## Übersicht
 
-- [[#Brainstorming]]
-- [[#Brainwriting]]
-- [[#Mindmap]]
-- [[#SMARTe Ziele formulieren]]
-- [[#Ziel-/Arbeitsplan & Zeitplan]]
-- [[#Entscheidungsmatrix]]
+- [Brainstorming](#brainstorming)
+- [Brainwriting](#brainwriting)
+- [Mindmap](#mindmap)
+- [SMARTe Ziele formulieren](#smarte-ziele-formulieren)
+- [Ziel-/Arbeitsplan & Zeitplan](#ziel-arbeitsplan--zeitplan)
+- [Entscheidungsmatrix](#entscheidungsmatrix)
 
 ## Brainstorming 
 
