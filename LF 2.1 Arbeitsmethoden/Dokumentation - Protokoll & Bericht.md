@@ -1,5 +1,5 @@
 **Dokumentation des Projektes**
-> [!Definition]
+> [!IMPORTANT]
 > Die Zusammenstellung ausgewählter, wesentlicher Daten über die Konfigurationen, Organisation, Mitteleinsatz, Lösungswege, Ablauf und erreichte Ziele des Projektes. (DIN_69901)
 
 **Funktion**
