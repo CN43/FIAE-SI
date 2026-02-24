@@ -21,7 +21,7 @@ Warum immer wieder beim selben Anbieter kaufen?
 		- [Kunden](#kunden---zentrum-des-mikroumfelds)
 		- [Wettbewerber](#wettbewerber---der-kampf-um-marktanteile)
 		- [Lieferanten](#lieferanten---rückgrat-der-wertschöpfung)
-		- [Intermediäre](intermediäre---die-brücke-zum-kunden)
+		- [Intermediäre](#intermediäre---die-brücke-zum-kunden)
 		- [Medien](#öffentlichkeit-und-medien---das-image-entscheidet)
 		- [Interaktionen zwischen den Bestandteilen](#mikro-umfeld-als-dynamisches-netzwerk)
 	- [Makroumfeld - PESTEL-Faktoren](#makroumfeld---pestel-faktoren)
