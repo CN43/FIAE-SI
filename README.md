@@ -9,6 +9,7 @@
 
 - [Bedürfnisse und Güter](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Bedürfnisse%20und%20Güter.md)
 - [Unternehmensziele](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Unternehmensziele.md)
+- [Marktstruktur, Marktumfeld & Kundenbeziehungen](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Marktstruktur,%20Marktumfeld%20&%20Kundenbeziehungen.md)
 ## LF 2.1 Arbeitsmethoden
 
 - [Projekt](/LF%202.1%20Arbeitsmethoden/Projekt.md)
