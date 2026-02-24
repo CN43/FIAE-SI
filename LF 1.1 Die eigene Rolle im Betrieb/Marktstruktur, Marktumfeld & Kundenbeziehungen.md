@@ -19,17 +19,17 @@ Warum immer wieder beim selben Anbieter kaufen?
 - [Marktumfeld](#marktumfeld)
 	- [Mikro-Umfeld](#mikro-umfeld)
 		- [Kunden](#kunden---zentrum-des-mikroumfelds)
-		- [Wettbewerber]Wettbewerber - Der Kampf um Marktanteile
-		- [Lieferanten](#lieferanten---rckgrat-der-wertschpfung)
-		- [Intermediäre](intermedire---die-brcke-zum-kunden)
-		- [Medien](#ffentlichkeit-und-medien---das-image-entscheidet)
+		- [Wettbewerber](#wettbewerber---der-kampf-um-marktanteile)
+		- [Lieferanten](#lieferanten---rückgrat-der-wertschöpfung)
+		- [Intermediäre](intermedire---die-brücke-zum-kunden)
+		- [Medien](#öffentlichkeit-und-medien---das-image-entscheidet)
 		- [Interaktionen zwischen den Bestandteilen](#mikro-umfeld-als-dynamisches-netzwerk)
 	- [Makroumfeld - PESTEL-Faktoren](#makroumfeld---pestel-faktoren)
 		- [Politische Faktoren (P)](#politische-faktoren-P)
-		- [Ökonomische Faktoren (E)](#konomische-faktoren-e)
+		- [Ökonomische Faktoren (E)](#ökonomische-faktoren-e)
 		- [Sozio-kulturelle Faktoren (S)](#sozio-kulturelle-faktoren-s)
 		- [Technologische Faktoren (T)](#technologische-faktoren-t)
-		- [Ökologische Faktoren (E)](#kologische-faktoren-e)
+		- [Ökologische Faktoren (E)](#ökologische-faktoren-e)
 		- [Rechtliche Faktoren (L)](#rechtliche-faktoren-l)
 
 ## Marktformen & Marktstruktur
