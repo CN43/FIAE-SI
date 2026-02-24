@@ -34,8 +34,6 @@ Warum immer wieder beim selben Anbieter kaufen?
 
 ## Marktformen & Marktstruktur
 
-BILD EINFÜGEN!
-
 **Polypol**
 - Starker Wettbewerb
 - Kein einzelner Anbieter bestimmt den Preis 
