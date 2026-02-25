@@ -31,7 +31,7 @@ Warum immer wieder beim selben Anbieter kaufen?
 		- [Technologische Faktoren (T)](#technologische-faktoren-t)
 		- [Ökologische Faktoren (E)](#ökologische-faktoren-e)
 		- [Rechtliche Faktoren (L)](#rechtliche-faktoren-l)
-- [Kundenbeziehungen](#kundnebeziehungen)
+- [Kundenbeziehungen](#kundenbeziehungen)
 	- [Kundentypen](#kundentypen)
 	- [Phasen der Kundenbeziehung](#phasen-der-kundenbeziehung)
 	- [Strategien der Kundenbindung in der IT](#strategien-der-kundenbindung-in-der-it)
