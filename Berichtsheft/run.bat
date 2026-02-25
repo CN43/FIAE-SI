@@ -12,6 +12,7 @@ set "REQ=%~dp0requirements.txt"
 
 set "CONFIG=%~dp0config.ini"
 set "EXPORT_DIR=%~dp0export"
+set "TEMPLATE=%~dp0template.docx"
 
 REM =====================
 
