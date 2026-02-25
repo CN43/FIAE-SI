@@ -3,12 +3,12 @@
 
 Warum immer wieder beim selben Anbieter kaufen?
 
-- Qualität
-- Preis
-- Verfügbarkeit
-- Kundenservice
-- Nachhaltigkeit
-- Vertrauen
+- Qualität
+- Preis
+- Verfügbarkeit
+- Kundenservice
+- Nachhaltigkeit
+- Vertrauen
 
 > [!IMPORTANT]
 > Definition: Ein Markt ist der Ort des Zusammentreffens von Angebot und Nachfrage bei dem Preise entstehen. Er kann physisch oder virtuell sein
