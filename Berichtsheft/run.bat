@@ -24,9 +24,7 @@ echo [2/6] Python pruefen...
 where python >nul 2>&1
 if errorlevel 1 (
   echo FEHLER: Python wurde nicht gefunden.
-  echo Bitte Python 3 installieren und beim Setup "Add Python to PATH" aktivieren.
-  pause
-  exit /b 1
+  winget install -e --id Python.Python.3.14
 )
 
 echo [3/6] venv erstellen (falls noetig)...
