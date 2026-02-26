@@ -48,13 +48,13 @@ def insert_pagebreak_before_week2(doc: Document):
 def normalize_key(entry: str) -> str:
     entry = entry.strip()
 
-    # 1️⃣ Lernfeld extrahieren
+    #Lernfeld extrahieren
     m = LF_RE.search(entry)
     if m:
         # Leerzeichen normieren → "LF 2.4"
         return re.sub(r"\s+", " ", m.group(0)).strip()
 
-    # 2️⃣ sonstige Einheiten (Lehrername entfernen)
+    # sonstige Einheiten (Lehrername entfernen)
     for sep in (" - ", " | "):
         if sep in entry:
             return entry.split(sep, 1)[0].strip()
@@ -112,8 +112,7 @@ def load_config(path: Path):
         )
 
     sec = cfg["berichtsheft"]
-
-    # optional: eigene Sektion für Personendaten, sonst fallback auf [berichtsheft]
+    
     person = cfg["person"] if "person" in cfg else sec
 
     return {
@@ -129,7 +128,7 @@ def build_days_for_two_weeks(schedule, week_start: dt.date):
     ordered = []
     for offset in range(0, 5):  # Woche 1
         d = week_start + dt.timedelta(days=offset)
-        key = d.strftime("%d.%m.")  # muss zu deinen schedule-Keys passen
+        key = d.strftime("%d.%m.")  #
         subjects = schedule.get(key, defaultdict(float))
         total = sum(subjects.values())
         ordered.append((key, total, subjects))
@@ -144,10 +143,10 @@ def build_days_for_two_weeks(schedule, week_start: dt.date):
     return ordered
 
 def format_day(date_str: str, subjects: dict, total: float):
-    # Datum als Header (so wie du es unter dem Wochentag haben willst)
-    header = date_str  # z.B. "23.02."
+    
+    header = date_str  
 
-    # SLOT → Themenliste (gern mit Aliases)
+    # SLOT → Themenliste
     items = sorted(subjects.items(), key=lambda x: (-x[1], x[0]))
     slot_lines = [f"- {ALIASES.get(k, k)} ({h:g}h)" for k, h in items]
     slot = "\n".join(slot_lines)
