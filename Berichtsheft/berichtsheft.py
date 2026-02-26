@@ -117,12 +117,9 @@ def load_config(path: Path):
     person = cfg["person"] if "person" in cfg else sec
 
     return {
-        # bisher
         "sheet_csv_url": sec.get("sheet_csv_url", "").strip(),
         "week_mode": sec.get("week_mode", "current").strip(),
         "manual_week_start": sec.get("manual_week_start", "").strip(),
-
-        # neu: statische Template-Felder
         "NAME": person.get("name", "").strip(),
         "YEAR": person.get("year", "").strip(),
         "CLASS": person.get("class", "").strip(),
@@ -257,7 +254,7 @@ def main():
     content["2_START"] = fmt(week_start + dt.timedelta(days=7))
     content["2_END"]   = fmt(week_start + dt.timedelta(days=11))
 
-    out_file = out_dir / "Ausbildungsnachweis_Wochenblatt_"
+    out_file = out_dir / "Ausbildungsnachweis_Wochenblatt_KW.docx"
 
     fill_template(content, Path(args.template), out_file)
 
